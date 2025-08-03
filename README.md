@@ -19,6 +19,5 @@ This SQL‑based data analysis project explores global COVID‑19 trends using t
 
 ```text
 .covid‑data‑exploration‑eda/
-├── sql/
-│   └── covid_analysis.sql     ← All above queries, cleaned and structured
+├── sql    ← All above queries, cleaned and structured
 └── README.md
